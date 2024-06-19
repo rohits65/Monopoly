@@ -1,0 +1,1 @@
+Some class files are corrupt because I used multiple IDEs to design this, so it cannot run in Eclipse. Please use `java Monopoly` in the /src directory in order to run the program without errors.
